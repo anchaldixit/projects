@@ -1,0 +1,135 @@
+*{margin:0; padding:0;}
+.dotted
+{
+ border-bottom-style: dotted;
+ border-bottom-width:1px;
+ 
+}
+a{
+color : black;
+
+}
+h4{
+font-family:"calibri";
+font-size:28px;
+letter-spacing:2.5px;
+word-spacing:5px;
+color:white;
+
+}
+p
+{
+	font-size:10px;
+	text-transform:uppercase;
+	letter-spacing:1.5px;
+	color:white;
+	line-height:18px;
+}
+
+body {
+    background-image: url("mountain.jpg");
+	background-position: bottom center;
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	width:100%;
+	height:100%;
+}
+.wrapper{
+	width:100%;
+}
+.wrapper .diamond{
+	color:white;
+	padding:20px;
+	display:block;
+    width: 50px;
+   
+    border: 2px solid black;
+	text-align: center;
+	margin:0 auto;
+	border-bottom:2px solid #fff;
+	border-color:white;
+	margin-top:40px;
+	}
+.wrapper .diamond .fa{font-size:40px;}
+
+.wrapper .line{
+text-align:center;
+margin-top:2px;
+margin-bottom:-3px;
+}
+.wrapper .ver_top{
+display:inline-block;
+width:2px;
+height:50px;
+border-right:2px solid white;
+
+}
+
+.wrapper .content-part{
+	border-top:2px solid #fff;
+	border-bottom:2px solid #fff;
+		width:600px;
+		margin:0 auto;
+		padding:45px 0;
+		text-align: center;
+		
+		
+		
+}
+
+.wrapper .content-part h1, .wrapper .content-part p{
+	color:#fff;
+}
+.wrapper .content-part p{
+	
+}
+.wrapper .ver_bottom{
+    border-top:2px solid #fff;
+	border-bottom:2px solid #fff;
+		width:600px;
+		
+		padding:45px 0;
+		text-align:center;
+		
+}
+.wrapper .link-list{
+	text-align:center;
+	
+}
+
+
+.wrapper .link-list li a{
+	margin:0px;
+	padding:9px;
+	border:1px solid white;
+	text-align:center;
+	 text-decoration: none;
+	 color:white;
+}
+.wrapper .link-list li {
+	
+	display:inline-block;
+	list-style-type: none;
+	text-align:white;
+	text-align:center;
+	margin-right:-5px;
+	padding:7px 0;
+	
+	
+}
+.wrapper .content-footer{
+	
+		color:white;
+		width:600px;
+		margin:0 auto;
+		padding:45px 0;
+		text-align:center;
+}
+
+.wrapper .content-footer .footerstyle{
+	font-size:8px;
+	
+	
+}
+
+
