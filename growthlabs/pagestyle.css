@@ -11,17 +11,16 @@ font-family: 'proxima nova rgregular'; src: url("fonts/proximanova-regular-webfo
 	width:100%;
 }
 body{
-	 font-family: 'proxima nova rgbold'; 
+	 font-family: 'proxima nova rgregular'; 
 }
 p{
-	font-family: Proxima Nova;
+	
 	font-size:20px;
 	
 }
 .mytext{
 	color:white;
 	font-size:22px;
-	font-family: Proxima Nova;
 	margin:0 auto;
 	letter-spacing:1px;
 	}
@@ -41,7 +40,6 @@ p{
 	width:235px;
 	height:20px;
 	background-color:#F55E0B;
-	Font-Family: Proxima Nova;
 	margin-top:6px;
 	border:1px solid white;
 	padding:5px 10px;
@@ -50,16 +48,13 @@ p{
 .mytext2 {
 	
 	width:235px;
-	height:120px;
-	background-color:#F55E0B;	
-	Font-Family: Proxima Nova;
-	
+	height:130px;
+	background-color:#F55E0B;
+   
 }
 .mytext8 {
 	
 	width:45px;
-	
-	
 	color:white;
 	margin-top:20px;
 	background-color:#F55E0B;
@@ -69,13 +64,13 @@ p{
 	width:258px;
 	height:140px;
 	border:1px solid white;
+    margin-top:8px;
 }
 .mytext3
 {
 	color:white;
 	padding-right:75px;
 	margin-top:20px;
-	Font-Family: Proxima Nova;
 	
 }
 .mysend{
@@ -84,16 +79,12 @@ p{
 	height:35px;
 	background-color:#0195BD;
 	color:white;
-	margin-left:8px;
-	Font-Family: Proxima Nova;
 	margin-top:20px;
 	border:1px solid white;
 }
 .text{
-	Font-Family: Proxima Nova;
 	line-height:32px;
 	letter-spacing:1px;
-	width:600px;
 }
 label{
 	width:100%;
@@ -122,28 +113,22 @@ label{
 	
 	border-top:2px solid #fff;
 	border-bottom:2px solid #fff;
-	width:500px;
+	width:650px;
 		margin:0 auto;
 		padding:45px 0;
 		text-align: center;
-		Font-Family: Proxima Nova;
 
 }
 .wrapper .content-text{
 	background-color:#0195BD;
 	text-align:center;
 	padding:76px 0;
-	
-	
-		width:1686px;
-		margin:0 auto;	
-		Font-Family:Proxima Nova;
-		color:white;		
+	margin:0 auto;	
+    		color:white;		
 }
 .wrapper .content-from-outer{
 	background-color:#F55E0B;
 	padding:20px 0 25px;
-	Font-Family: Proxima Nova;
 }
 .wrapper .content-from .textarea{
 	width:250px;
@@ -155,5 +140,6 @@ label{
 	padding:20px 0 25px;
 	width:250px;
 	margin:0 auto;
-	Font-Family: Proxima Nova;
+}
+.input-wrap{
 }
