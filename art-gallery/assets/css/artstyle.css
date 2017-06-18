@@ -1,0 +1,116 @@
+
+.wrapper{
+	width:100%;
+    font-family:Raleway;
+ }
+ .header h2{
+            margin-left:1232px;
+            margin-top:-47px;
+  }
+  .header h1{
+             margin-left:73px;
+  }
+  .img1{
+             
+              background-repeat:no-repeat;
+              width:48%;
+              padding-left:44px;
+              float:left;
+              
+           
+           
+
+  }
+  .img2{
+              background-repeat:no-repeat;
+              width:46.1%;
+              
+  }
+ 
+  .img3{
+              background-repeat:no-repeat;
+              width:48%;
+              padding-left:44px;
+              float:left;
+  }
+  .img5{
+              background-repeat:no-repeat;
+              float:left;
+              padding-left:44px;
+              width:48%;
+              height:445px;
+  }
+ 
+  .img4{
+              
+              background-repeat:no-repeat;
+              width:46.1%;
+  }
+  .content h2{
+           text-align:center;
+           margin-top:40px;
+   }
+  .content-img{
+                 background-repeat:no-repeat;
+                margin-top:31px;
+                margin-left:530px;
+                height:400px;
+}
+.content-text {
+        
+          text-align:center;
+          margin-top:50px;
+          width:750px;
+          margin-left:309px;
+          line-height:24px;
+  }
+.content h1{
+            text-align:center;
+            color:red;
+            font-weight:100;
+}
+.mytext3{
+	margin-left:67px;
+    font-weight:bold;
+  }
+.wrapper .content-from-outer{
+
+	padding:20px 0 25px;
+}
+.wrapper .content-from .textarea{
+	width:250px;
+	height:200px;
+}
+
+.wrapper .content-from{
+	
+	padding:20px 0 25px;
+	width:250px;
+	margin:0 auto;
+}
+.mytext1 {
+
+	width:973px;
+	height:20px;
+	
+	margin-top:6px;
+	border:1px solid  #CCCCCC;
+	padding:5px 12px;
+    margin-left:-409px;
+	
+}
+
+.mysend{
+	
+	width:1001px;
+	height:35px;
+	margin-top:26px;
+	border:1px solid #CCCCCC;
+    margin-left:-409px;
+    font-weight:bold;
+    background-color:#616161;
+}
+.fotter h3, a{ 
+        text-align:center;
+        color:#616161;
+}
