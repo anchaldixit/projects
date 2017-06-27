@@ -1,0 +1,126 @@
+@font-face { 
+font-family: 'AvenirLTStd-Black'; src: url("assets/fonts/AvenirLTStd-Black.woff") format("woff");
+ } 
+ @font-face { 
+font-family: 'AvenirLTStd-Book'; src: url("assets/fonts/AvenirLTStd-Book.woff") format("woff");
+ } 
+
+
+
+
+
+body{
+  background-color:#f5f6f7;
+}
+.wrapper{
+	width:870px;
+    margin:0 auto;
+    background-color:#f5f6f7;
+}
+.wrapper .header{
+         margin-top:28px;
+         margin-bottom:40px;
+         
+  }
+ .wrapper .content-wrapper{
+ background-color:white;  
+ padding: 50px 50px 50px 50px;
+ overflow:hidden;
+}
+.wrapper .header a{
+         
+ }
+   .wrapper .heding{ 
+    border-top:4px solid black;
+    word-spacing:4px;
+    margin:0 auto;
+    margin-top:34px;
+    border-bottom:2px solid black;
+    width:770px;
+}
+  
+.wrapper .heding h2{
+          margin-top:28px;
+          line-height:27px;
+          font-family:'AvenirLTStd-Black';
+          
+ }
+ .wrapper .content span{
+           font-weight: bold;
+           margin-left:50px;
+  }
+  .wrapper .content p{
+          
+           line-height:29px;
+           word-spacing:6px;
+           font-size:24px;
+           width:779px;
+           font-family:'AvenirLTStd-Book';
+           
+   }
+   .wrapper .content h2{
+         
+            color:blue;
+    }
+    .wrapper .content ul{
+             margin-left:54px;
+     }
+     .wrapper .content style1 li{
+             margin-left:24px;
+             list-style-type: number;
+     }
+   
+     
+     .wrapper .content p{
+              margin-top:65px;
+                 font-family:'AvenirLTStd-Book';
+      }
+       .wrapper .section{
+                width:830px;
+               
+                
+                
+        }
+      .wrapper  .section .section-left {
+            float:left;
+           width:265px;
+           margin-top:65px;
+    }
+    
+   .section .section-left a{
+              font-size:19px;  
+              color:black;
+              word-spacing:-2px;
+              line-height:31px;
+              letter-spacing:1px;
+      }
+     
+   .section .section-left img{
+            margin-top:20px;
+    } 
+     .section .section-center {
+          float:left; 
+          width:265px; 
+     }
+      .section .section-center img{
+              margin-top:20px;
+    } 
+      .section .section-center a{
+              font-size:19px;  
+              color:black;
+              word-spacing:-2px;
+              line-height:31px;
+              letter-spacing:1px;
+ }
+ .wrapper .fotter{
+          border-top:4px solid black;
+         margin:0 auto;
+          margin-top:664px;
+ 
+   }
+    .wrapper .fotter h5{
+             margin-top:35px;
+             margin-left:296px;
+             margin:0 auto;
+             
+     }

@@ -1,0 +1,36 @@
+
+@font-face { 
+font-family: 'AvenirLTStd-Black'; src: url("assets/fonts/AvenirLTStd-Black.woff") format("woff");
+ } 
+ 
+@font-face { 
+font-family: 'AvenirLTStd-BlackOblique'; src: url("assets/fonts/AvenirLTStd-BlackOblique.woff") format("woff");
+ } 
+ 
+@font-face { 
+font-family: 'AvenirLTStd-Book'; src: url("assets/fonts/AvenirLTStd-Book.woff") format("woff");
+ } 
+ 
+@font-face { 
+font-family: 'AvenirLTStd-BlackOblique'; src: url("assets/fonts/AvenirLTStd-BlackOblique.woff") format("woff");
+ } 
+ 
+@font-face { 
+font-family: 'AvenirLTStd-Heavy'; src: url("assets/fonts/AvenirLTStd-Heavy.woff") format("woff");
+ } 
+
+ .font1{
+   font-family:'AvenirLTStd-Black';
+  }
+  .font2{
+   font-family:'AvenirLTStd-BlackOblique';
+  }
+  .font3{
+   font-family:'AvenirLTStd-Book';
+  }
+  .font4{
+   font-family:'AvenirLTStd-Heavy';
+  }
+  .font5{
+   font-family:'AvenirLTStd-HeavyOblique';
+  }
