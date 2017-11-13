@@ -1,0 +1,92 @@
+.wrapper{
+	
+    margin:0 auto;
+	overflow:hidden;
+}
+.wrapper .header {
+	background-color:khaki;
+	overflow:hidden;
+}
+.wrapper .header img{
+	height:16%;
+}
+.link-list2 {
+	float:right;
+	margin-top:24px;
+	margin-right:900px;
+	
+}
+.link-list2 li a{
+	margin-top:0 auto;
+	padding:10px;
+	border:1px solid black;
+	text-align:center;
+	 text-decoration: none;
+	 margin-left:40px;
+	 color:black;
+	 
+}
+.link-list2 li {
+	
+	display:inline-block;
+	list-style-type: none;
+	text-align:white;
+	text-align:center;
+	
+}
+
+.city{
+	float:right;
+}
+.city select{
+	text-align:center;
+	width:20%;
+	height:10%;
+	background-color:#039ccb;
+	border:1px solid #ffcd2c;
+}
+.city img{
+	float:left:
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.city{
+	padding:10px;
+}
+.city select{
+	text-align:center;
+	width:20%;
+	height:10%;
+	background-color:#039ccb;
+	border:1px solid #ffcd2c;
+}
+.city option{
+	display:block;
+	padding:0px 2px 1px;
+	
+}
+.city img{
+float:right;	
+margin-top:-142px;
+width:450px;
+height:22%;
+}
+
+

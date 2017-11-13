@@ -486,7 +486,7 @@ color:rgb(50, 89, 216);
 }
 .wrapper .fullRanking-left{
 	
-	width:55%;
+	width:100%;
 }
 .wrapper .fullRanking-left ul {
   counter-reset: section;
@@ -496,6 +496,8 @@ color:rgb(50, 89, 216);
 .wrapper .fullRanking-left li {
   margin: 0 0 10px 0;
   line-height: 40px;
+  float:left;
+  width:50%
 }
 
 .wrapper .fullRanking-left li:before {
